@@ -15,7 +15,7 @@ foi usada essa ferramenta por causa da familiaridade do desenvolvedor, mas tamb�
 
 Como executar o projeto em uma nova máquina:
 
-Baixe as ferramentas Intellij e Postman, faça a importação do projeto no Intellij, execute o programa na parte superior da ferramenta.
+Baixe o projeto via GitHub, baixe as ferramentas Intellij e Postman, faça a importação do projeto no Intellij, execute o programa na parte superior da ferramenta.
 No Postman, crie uma conta, após a criação da conta, em "Get started with Postman", clique em Creat New, escolha HTTP Request,
 na aba de colecionaveis, adicione uma nova aba, o nome é de sua escolha.
 Adicione o tipo de requisição Get, passe o caminho como localhost:8080/ponto-de-interesse, assim ira fazer a lista de todos os pontos de interesse.
